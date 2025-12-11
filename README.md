@@ -1,2 +1,16 @@
 # HTML
-HTML project done as final project coming soon
+This is my final project I did for a web development foundations class. I created a personal portfolio website with three HTML pages.
+
+## <ins>Instructions:</ins>
+
+-[Final Instructions](https://github.com/RebeccaWells3/HTML/blob/main/D276%20Final%20Instructions.pdf)
+
+## <ins>Files:</ins>
+
+-[Career Goals](goals.html)
+
+-[Cover Letter](coverletter.html)
+
+-[Resume](index.html)
+
+-[CSS](styles.css)
