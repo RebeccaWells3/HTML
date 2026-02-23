@@ -5,7 +5,7 @@ This is my final project I did for a web development foundations class. I create
 
 -[Final Instructions](https://github.com/RebeccaWells3/HTML/blob/main/D276%20Final%20Instructions.pdf)
 
-##<ins>Website:</ins>
+## <ins>Website:</ins>
 
 -[Rebecca Wells Portfolio Website](https://rebeccawells3.github.io/HTML/)
 ## <ins>Files:</ins>
